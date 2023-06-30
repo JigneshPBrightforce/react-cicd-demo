@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React successfully run via github actions
+          Welcome to React world
         </a>
       </header>
     </div>
